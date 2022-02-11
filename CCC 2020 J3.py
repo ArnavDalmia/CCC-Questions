@@ -1,7 +1,6 @@
 count = int(input())
 x = []
 y = []
-
 for i in range(count):
     val = input().split(",")
     x.append(int(val[0]))
